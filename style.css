@@ -1,0 +1,50 @@
+body
+{
+	background:white;
+	margin: 0px;
+	padding: 0px;
+}
+.page
+{
+	height: 750px;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.header
+{
+	height: 100px;
+	width: 100%;
+	background: red;
+}
+h2
+{
+	padding:5px;
+	font-size: 40px;
+	font-family: Arial Verdana;
+	font-style: italic;
+	margin-left: 30px;
+	display: inline-block;
+	margin-top: 15px;
+}
+.menu
+{
+	display: inline-block;
+	list-style: none;
+	float: right;
+	margin-right: 40px;
+}
+.li
+{
+	display: inline-block;
+	padding: 5px;
+	margin-top: 10px;
+	font-size: 20px;
+}
+.slider
+{
+	height: 150px;
+	width: 100%;
+	background: blue;
+	display: inline-block;
+}
